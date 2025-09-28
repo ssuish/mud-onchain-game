@@ -1,10 +1,10 @@
 # MUD Game - Phaser Edition
 
-A complete MUD (Multi-User Dungeon) game built with **MUD framework v2.2.21** and **Phaser.js**, featuring onchain game mechanics, real-time multiplayer gameplay, and pixel art aesthetics.
+A complete MUD game built with **MUD framework v2.2.21** and **Phaser.js**, featuring onchain game mechanics, real-time multiplayer gameplay, and pixel art aesthetics.
 
 ## 🎮 Overview
 
-This project is a modern take on classic MUD games, combining the autonomous world paradigm with engaging 2D gameplay. Built on Ethereum using the MUD framework, it provides:
+This project is a modern take on classic games, combining the autonomous world paradigm with engaging 2D gameplay. Built on Ethereum using the MUD framework, it provides:
 
 - **Onchain Game Logic**: All game state and mechanics are stored and executed on the blockchain
 - **Real-time Client**: Responsive Phaser.js-based game client with pixel art graphics
