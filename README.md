@@ -1,4 +1,4 @@
-# MUD Game Template - Phaser Edition
+# MUD Game - Phaser Edition
 
 A complete MUD (Multi-User Dungeon) game built with **MUD framework v2.2.21** and **Phaser.js**, featuring onchain game mechanics, real-time multiplayer gameplay, and pixel art aesthetics.
 
